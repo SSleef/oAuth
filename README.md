@@ -14,7 +14,7 @@ How to set up
        EXTRAS:
        redirected_uri = heruko app and put your own
        webhook_url, webhook_logging_url = your webhook
-4. Host the forked repostry which you edited on Heroku ( or anything else )
+4. Host the forked repostry which you edited on Heroku ( or anything else, free heroku is discontinued soon make sure to host it on something else)
    4.0 connect heruko with your github repository and deploy
 5. ( Not compulsory ) get a custom dns
 6. Set up your own discord server ( https://media.discordapp.net/attachments/1031890637731139604/1031935541266100335/unknown.png?width=1229&height=694 )
