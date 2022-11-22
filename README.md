@@ -1,6 +1,6 @@
-How to set up
-
 **EDUCATIONAL PURPOSE ONLY, I AM NOT RESPONSIBLE FOR ANY DAMAGE CAUSED WITH THIS TOOL**
+
+How to setup:
 
 1. Fork this
 2. Make a Microsoft Azure Application Registration
